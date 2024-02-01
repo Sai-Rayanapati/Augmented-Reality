@@ -1,0 +1,25 @@
+# ninja log v5
+7	350	7285037736440137	external/glad-3.3/CMakeFiles/glad.dir/src/gl.c.obj	d14dad2f0d2eeadb
+351	491	7285037737852855	libglad.a	f1d1c4647fe3fb1a
+27	1573	7285037748657990	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/init.c.obj	d59e1bf3a5de17cd
+12	1601	7285037748737328	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/context.c.obj	e34e451bc3f4ec5f
+33	1606	7285037748904722	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/input.c.obj	b179ec28e3cf9052
+18	1611	7285037748934726	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/monitor.c.obj	d4198eedfa75f9d3
+491	1616	7285037748977521	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/window.c.obj	a7f79c0dd0e055ce
+1574	2369	7285037756648910	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	cb3122b2c4d97fce
+1611	2378	7285037756720935	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_time.c.obj	72a59538f4476250
+1601	2384	7285037756720935	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_init.c.obj	672914a5230df0c7
+1606	2392	7285037756854144	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_tls.c.obj	f2ad7315754ca97a
+1617	2471	7285037757669306	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_window.c.obj	a6143663df0cb0d3
+1	2764	7285037760592787	CMakeFiles/lab1_triangle.dir/lab1/lab1_triangle.cpp.obj	6b1399df34d679ec
+2378	3008	7285037763035464	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/winmm_joystick.c.obj	5938c6ff1559fc65
+2369	3047	7285037763431439	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/wgl_context.c.obj	1dd72c72dfca8fdf
+3047	3170	7285037764621536	glfw3.dll	d2b518cd64bf4af4
+3047	3170	7285037764621536	glfw3dll.a	d2b518cd64bf4af4
+3171	3279	7285037765695840	lab1_triangle.exe	b1a2fc38445d47b4
+3	1024	7285038150752356	CMakeFiles/lab1_window.dir/lab1/lab1_window.cpp.obj	de9b5c31e99b88ce
+1024	1110	7285038151578045	lab1_window.exe	8560780f1e843bbc
+4	1158	7285039716521232	CMakeFiles/lab1_triangle.dir/lab1/lab1_triangle.cpp.obj	6b1399df34d679ec
+1158	1259	7285039717489353	lab1_triangle.exe	b1a2fc38445d47b4
+5	1107	7285042338358774	CMakeFiles/lab1_triangle.dir/lab1/lab1_triangle.cpp.obj	6b1399df34d679ec
+1108	1222	7285042339464722	lab1_triangle.exe	b1a2fc38445d47b4
